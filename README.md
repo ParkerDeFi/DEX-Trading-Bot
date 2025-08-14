@@ -24,7 +24,7 @@ Follow these steps to deploy and run your own trading bot:
 
 ## 🔗 Connect With Me
 
-- 📬 [Telegram](https://t.me/parkerdefi)
+- 📬 [Telegram](https://t.me/parker_defi)
 - 💼 [LinkedIn](https://www.linkedin.com/in/parkersturtevant)
 
 ---
